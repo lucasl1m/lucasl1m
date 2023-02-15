@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋</h1>
 
-<img align="right" src="./src/assets/static/react1.png" width="200"/>
+<img align="right" src="./src/assets/static/react1.png" width="150"/>
 <p align="left">Here is a little summary about me </p>
 
 <ul>
