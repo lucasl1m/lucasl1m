@@ -4,10 +4,11 @@
 <p align="left">Here is a little summary about me </p>
 
 <ul>
-  <li><p align="left">🎓 I'm studying  <strong>Computer Science</strong> in UFCG.</p></li>
+  <li><p align="left">🎓 Graduated in <strong>Computer Science</strong> at UFCG.</p></li>
   <li><p align="left">👨‍💻 I am a Front-End Developer & Design Enthusiast</p></li>
-  <li><p align="left">⚡️ Skills: ReactJs, React Native, JavaScript, Typescript</p></li>
+  <li><p align="left">⚡️ Skills: ReactJS, React Native, Angular, NextJS</p></li>
   <li><p align="left">🔩 Tools: Figma, Git and Github</p></li>
+  <li><p align="left">🧪 Test: Cypress e Jest</p></li>
 </ul>
 
 
