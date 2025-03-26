@@ -53,17 +53,19 @@ export function Main() {
                     </UserBox>
 
                     <Annotation>
-                        Sou graduando em <b>Ciência da Computação</b> pela UFCG.
-                        Comecei a estudar <b>programação</b> e <b>design</b> em
-                        2020. Eu amo o que faço e sempre busco desenvolver
-                        códigos e interfaces{" "}
-                        <b>simples, impactantes e com qualidade</b>.
+                        Sou desenvolvedor <b>Frontend</b>, bacharel em <b>Ciência da Computação</b> pela UFCG (2024), com experiência em <b>fintechs</b> e foco em criar soluções <b>eficientes e escaláveis</b>. 
+                        Ao longo da minha carreira, trabalhei no desenvolvimento de plataformas financeiras utilizando <b>React.js</b> e <b>React Native</b>, impactando mais de 100 empresas parceiras. Fui responsável por otimizar processos, integrar APIs e criar interfaces mais intuitivas, contribuindo para melhorar a performance e a experiência do usuário.
+                        Meu objetivo é sempre entregar soluções de <b>alta qualidade</b>, que sejam funcionais e tragam <b>valor real ao negócio</b>.
                     </Annotation>
+
                 </div>
 
-                <a href="#about">
-                    <Button>Saiba mais</Button>
-                </a>
+                <a
+                        href="https://drive.google.com/file/d/1wLt-DDd59K0tQxIX_KMHeqsmBGBdmIi1/view?usp=sharing"
+                        target="_blank"
+                    >
+                        <Button>Currículo</Button>
+                    </a>
             </ProfileWrapper>
 
             <ExperienceWrapper>
@@ -72,7 +74,7 @@ export function Main() {
                         <AiOutlineExperiment className="icon" />
                     </div>
                     <div className="textBox">
-                        <strong>{dayjs().year() - 2020}</strong>
+                        <strong>{dayjs().year() - 2022}</strong>
                         <small>Anos de experiência</small>
                     </div>
                 </li>
@@ -90,7 +92,7 @@ export function Main() {
                         <FiGithub className="icon" />
                     </div>
                     <div className="textBox">
-                        <strong>+ 450</strong>
+                        <strong>2</strong>
                         <small>Contribuições no total</small>
                     </div>
                 </li>

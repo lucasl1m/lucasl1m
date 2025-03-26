@@ -1,8 +1,5 @@
-import { FaBehance, FaMedium } from "react-icons/fa";
-import { SiGooglesheets } from "react-icons/si";
 import { FiExternalLink, FiFigma, FiGithub } from "react-icons/fi";
 import { IconBox } from "../IconBox";
-
 import {
     Container,
     Description,
@@ -10,112 +7,57 @@ import {
     UpTitle,
     Title,
     Tags,
+    ImageContainer,
+    InfosContainer,
 } from "./styles";
-
-interface ProjectProps {
-    imageSrc: string;
-    uptitle: string;
-    title: string;
-    description: string;
-    tags: string[];
-    deployURL?: string;
-    figmaURL?: string;
-    githubURL?: string;
-    behanceURL?: string;
-    mediumURL?: string;
-    googleSheets?: string;
-}
+import { IProject } from "../../types/interfaces/common";
 
 interface Props {
     isReversed: boolean;
-    projectInfos: ProjectProps;
+    project: IProject;
 }
 
-export function ProjectCard({ isReversed, projectInfos }: Props) {
-    
+export function ProjectCard({ isReversed, project }: Props) {
+    const { src, uptitle, title, description, tags, deployURL, figmaURL, githubURL } = project;
+
     return (
-        <Container
-            isReversed={isReversed}
-        >
-            <div className="image-container">
-                <a
-                    target="_blank"
-                    href={
-                        projectInfos.deployURL ||
-                        projectInfos.githubURL ||
-                        projectInfos.figmaURL
-                    }
-                >
-                    <img src={projectInfos.imageSrc} alt="project-preview" />
+        <Container isReversed={isReversed}>
+            <ImageContainer isReversed={isReversed}>
+                <a target="_blank" href={deployURL || githubURL || figmaURL}>
+                    <img src={src} alt="project-preview" />
                 </a>
-            </div>
+            </ImageContainer>
 
-            <div className="infos-container">
-                <UpTitle>{projectInfos.uptitle}</UpTitle>
-                <Title>{projectInfos.title}</Title>
+            <InfosContainer isReversed={isReversed}>
+                <UpTitle>{uptitle}</UpTitle>
+                <Title>{title}</Title>
 
-                <Description>
-                    <p>{projectInfos.description}</p>
-                </Description>
+                <Description>{description}</Description>
 
                 <Tags>
-                    {projectInfos.tags.map((tag) => (
-                        <p key={tag} className="tag">
-                            {tag}
-                        </p>
+                    {tags.map((tag) => (
+                        <p key={tag} className="tag">{tag}</p>
                     ))}
                 </Tags>
 
                 <IconsWrapper>
-                    {projectInfos.figmaURL ? (
-                        <IconBox href={projectInfos.figmaURL}>
+                    {figmaURL && (
+                        <IconBox href={figmaURL}>
                             <FiFigma className="icon" />
                         </IconBox>
-                    ) : (
-                        <></>
                     )}
-
-                    {projectInfos.mediumURL ? (
-                        <IconBox href={projectInfos.mediumURL}>
-                            <FaMedium className="icon" />
-                        </IconBox>
-                    ) : (
-                        <></>
-                    )}
-
-                    {projectInfos.githubURL ? (
-                        <IconBox href={projectInfos.githubURL}>
+                    {githubURL && (
+                        <IconBox href={githubURL}>
                             <FiGithub className="icon" />
                         </IconBox>
-                    ) : (
-                        <></>
                     )}
-
-                    {projectInfos.behanceURL ? (
-                        <IconBox href={projectInfos.behanceURL}>
-                            <FaBehance className="icon" />
-                        </IconBox>
-                    ) : (
-                        <></>
-                    )}
-
-                    {projectInfos.deployURL ? (
-                        <IconBox href={projectInfos.deployURL}>
+                    {deployURL && (
+                        <IconBox href={deployURL}>
                             <FiExternalLink className="icon" />
                         </IconBox>
-                    ) : (
-                        <></>
-                    )}
-
-                    {projectInfos.googleSheets ? (
-                        <IconBox href={projectInfos.googleSheets}>
-                            <SiGooglesheets className="icon" />
-                        </IconBox>
-                    ) : (
-                        <></>
                     )}
                 </IconsWrapper>
-            </div>
+            </InfosContainer>
         </Container>
     );
 }

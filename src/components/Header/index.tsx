@@ -7,8 +7,8 @@ import {
 } from "./styles";
 
 import logo from "./../../assets/static/logo.png";
+import { SECTIONS } from "../../types/constants/sections";
 
-import { SECTIONS } from "../../data/sections";
 
 export function Header() {
     return (

@@ -47,17 +47,13 @@ export const Container = styled.div<Props>`
   p {
     color: ${({ theme }) => theme.colors.bodyColor};
   }
+`;
 
-  &.image-box {
-    display: flex;
+export const Image = styled.img`
+    width: 3.5rem;
+    height: 3.5rem;
+    min-width: 3.5rem;
+    min-height: 3.5rem;
 
-    padding: 1rem;
-
-    background-color: ${({ borderColor }) => borderColor};
-
-    > img {
-      width: 2.5rem;
-      height: 2.5rem;
-    }
-  }
+    object-fit: contain;
 `;

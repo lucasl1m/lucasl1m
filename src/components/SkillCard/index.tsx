@@ -1,19 +1,12 @@
-import { Container } from './styles';
-interface SkillCardProps {
-  imageSrc: string;
-  title: string;
-  description: string;
-  borderColor: string;
-}
+import { ISkill } from '../../types/interfaces/common';
+import { Container, Image } from './styles';
 
-export function SkillCard({imageSrc, title, description, borderColor}: SkillCardProps) {
+export function SkillCard({src, title, description, borderColor}: ISkill) {
   return(
     <Container borderColor={borderColor}>
-      <div className="image-box">
-        <img src={imageSrc} alt="" />
-      </div>
-      <h2>{title}</h2>
-      <p>{description}</p>
+        <Image src={src} alt="" />
+        <h2>{title}</h2>
+        <p>{description}</p>
     </Container>
   );
 }

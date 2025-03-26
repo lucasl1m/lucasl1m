@@ -5,11 +5,10 @@ import shape from "./../../assets/static/shape.png";
 import { Footer } from "../../components/Footer";
 import { Header } from "../../components/Header";
 
-import { Main } from "../../sections/MainSection";
-import { About } from "../../sections/AboutSection";
-import { Contact } from "../../sections/ContactSection";
-import { Skills } from "../../sections/SkillsSection";
-import { Project } from "../../sections/ProjectSection";
+import { Main } from "../../sections/Intro";
+import { Contact } from "../../sections/Contact";
+import { Skills } from "../../sections/Skills";
+import { Project } from "../../sections/Projects";
 
 export function Home() {
     return (
@@ -22,9 +21,7 @@ export function Home() {
                 <Main />
 
                 <Project />
-
-                <About />
-
+å
                 <Skills />
 
                 <Contact />

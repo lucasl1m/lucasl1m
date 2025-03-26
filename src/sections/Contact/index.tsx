@@ -98,9 +98,6 @@ export function Contact() {
                     <IconBox alt="" href="https://www.instagram.com/lucasl1m/">
                         <FiInstagram className="icon" />
                     </IconBox>
-                    <IconBox alt="" href="https://www.behance.net/lucaslima170">
-                        <FaBehance className="icon" />
-                    </IconBox>
                     <IconBox
                         alt=""
                         href="https://api.whatsapp.com/send?phone=5583987196021"

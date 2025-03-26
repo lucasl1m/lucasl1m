@@ -4,8 +4,8 @@ export const SECTIONS = [
     targetSection: '#projects',
   },
   {
-    title: 'Sobre mim',
-    targetSection: '#about',
+    title: 'Experiência',
+    targetSection: '#skills',
   },
   {
     title: 'Contato',

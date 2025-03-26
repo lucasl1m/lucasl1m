@@ -1,7 +1,6 @@
 import { ProjectCard } from "../../components/ProjectCard";
 import { TitleSection } from "../../components/TitleSection";
-
-import { PROJECTS } from "../../data/projects";
+import { PROJECTS } from "../../types/constants/projects";
 
 import projects from "./../../assets/projects.svg";
 
@@ -18,7 +17,7 @@ export function Project() {
                 {PROJECTS.map((project, i: number) => (
                     <ProjectCard
                         key={i}
-                        projectInfos={project}
+                        project={project}
                         isReversed={i % 2 === 1}
                     />
                 ))}

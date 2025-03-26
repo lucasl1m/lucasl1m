@@ -1,10 +1,10 @@
 import { SkillCard } from "../../components/SkillCard";
 import { TitleSection } from "../../components/TitleSection";
-import { SKILLS } from "../../data/skills";
 
 import { Container, CardGrid } from "./styles";
 
 import tecnologies from "./../../assets/tecnologies.svg";
+import { SKILLS } from "../../types/constants/skills";
 
 export function Skills() {
     return (
@@ -21,10 +21,10 @@ export function Skills() {
 
             <CardGrid>
                 {SKILLS.map(
-                    ({ imageSrc, title, description, borderColor }, i) => (
+                    ({ src, title, description, borderColor }, i) => (
                         <SkillCard
                             key={i}
-                            imageSrc={imageSrc}
+                            src={src}
                             title={title}
                             description={description}
                             borderColor={borderColor}
