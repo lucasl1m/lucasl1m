@@ -61,7 +61,7 @@ export function Main() {
                 </div>
 
                 <a
-                        href="https://drive.google.com/file/d/1wLt-DDd59K0tQxIX_KMHeqsmBGBdmIi1/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1sgeP1WInabUu1D9H31Oo7hPSoAFNhhQZ/view?usp=sharing"
                         target="_blank"
                     >
                         <Button>Currículo</Button>
