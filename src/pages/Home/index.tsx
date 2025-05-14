@@ -21,7 +21,7 @@ export function Home() {
                 <Main />
 
                 <Project />
-å
+
                 <Skills />
 
                 <Contact />
