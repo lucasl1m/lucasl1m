@@ -53,15 +53,15 @@ export function Main() {
                     </UserBox>
 
                     <Annotation>
-                        Sou desenvolvedor <b>Frontend</b>, bacharel em <b>Ciência da Computação</b> pela UFCG (2024), com experiência em <b>fintechs</b> e foco em criar soluções <b>eficientes e escaláveis</b>. 
-                        Ao longo da minha carreira, trabalhei no desenvolvimento de plataformas financeiras utilizando <b>React.js</b> e <b>React Native</b>, impactando mais de 100 empresas parceiras. Fui responsável por otimizar processos, integrar APIs e criar interfaces mais intuitivas, contribuindo para melhorar a performance e a experiência do usuário.
-                        Meu objetivo é sempre entregar soluções de <b>alta qualidade</b>, que sejam funcionais e tragam <b>valor real ao negócio</b>.
+                        Desenvolvedor <b>Frontend</b> e bacharel em <b>Ciência da Computação</b> (UFCG, 2024) com experiência consolidada no setor de <b>fintech</b>. Minha trajetória anterior como <b>Product Designer</b> me proporciona uma perspectiva abrangente do produto, atuando como elo estratégico entre design e desenvolvimento para implementações técnicas otimizadas e focadas na <b>experiência do usuário</b>.
+                        Fui responsável pela liderança e desenvolvimento de interfaces para produtos financeiros críticos, incluindo a expansão do <b>Pix Internacional</b>, soluções de <b>Core Banking</b> e a arquitetura e manutenção do frontend de sistemas de alta relevância, como o <b>PagTesouro</b> para o Governo Federal.
+                        Minha especialização técnica envolve <b>React 18+</b>, <b>Next.js</b>, <b>React Native</b>, <b>Angular (6+)</b> e <b>TypeScript</b>, com foco em fluxos de checkout seguros, dashboards financeiros e interfaces escaláveis. No dia a dia, utilizo pipelines de <b>CI/CD</b> e testes com <b>Cypress</b> e <b>Jest</b> para garantir qualidade do código e agilidade nas entregas em ambientes de alta demanda.
                     </Annotation>
 
                 </div>
 
                 <a
-                        href="https://drive.google.com/file/d/1sgeP1WInabUu1D9H31Oo7hPSoAFNhhQZ/view?usp=sharing"
+                        href="https://drihttps://drive.google.com/file/d/1aPc_kmB0o_v_oVCH1yaD0vn6jUWrJBfe/view?usp=sharingve.google.com/file/d/1sgeP1WInabUu1D9H31Oo7hPSoAFNhhQZ/view?usp=sharing"
                         target="_blank"
                     >
                         <Button>Currículo</Button>
