@@ -8,5 +8,5 @@
   <li><p align="left">👨‍💻 I am a Front-End Developer & Design Enthusiast</p></li>
   <li><p align="left">⚡️ Skills: ReactJS, React Native, Angular, NextJS</p></li>
   <li><p align="left">🔩 Tools: RxJS, Zod, Yup, Zustand, Tailwind CSS, Style-components, Figma, Git, CI/CD, Husky</p></li>
-  <li><p align="left">🧪 Test: Cypress e Jest</p></li>
+  <li><p align="left">🧪 Test: Cypress, Jest e Vitest</p></li>
 </ul>
