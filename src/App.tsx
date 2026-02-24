@@ -1,13 +1,19 @@
-import { ThemeProvider } from 'styled-components';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Routes } from './routes/index';
-import { theme } from './styles/theme';
-import GlobalStyles from './styles/GlobalStyles';
+
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      retry: 1,
+      refetchOnWindowFocus: false,
+    },
+  },
+});
 
 export function App() {
   return (
-    <ThemeProvider theme={theme}>
-      <GlobalStyles />
+    <QueryClientProvider client={queryClient}>
       <Routes />
-    </ThemeProvider>
+    </QueryClientProvider>
   );
 }

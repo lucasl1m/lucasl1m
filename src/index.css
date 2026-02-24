@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-background: #242628;
+  --color-surface: #191A1B;
+  --color-body: #9aa6b1;
+  --color-caption: #768696;
+  --color-whiteText: #FFFFFF;
+  --color-border: #3B3E47;
+  --color-button: #5d6aff;
+  --color-on-button: #ffffff;
+  --color-accent: #7A85FF;
+  --color-icon: #9aa6b1;
+  --gradient-underline: linear-gradient(180deg, rgba(122, 133, 255, 0.74) 0%, #7A85FF 100%);
+  --shape-opacity: 0.4;
+}
+
+.light {
+  --color-background: #f5f5f7;
+  --color-surface: #ffffff;
+  --color-body: #4a5568;
+  --color-caption: #64748b;
+  --color-whiteText: #1a1a1b;
+  --color-border: #e2e8f0;
+  --color-button: #5d6aff;
+  --color-on-button: #ffffff;
+  --color-accent: #7A85FF;
+  --color-icon: #475569;
+  --gradient-underline: linear-gradient(180deg, rgba(93, 106, 255, 0.6) 0%, #5d6aff 100%);
+  --shape-opacity: 0.25;
+}
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+
+  @media (min-width: 1800px) {
+    html {
+      font-size: 32px;
+    }
+  }
+
+  @media (max-width: 1200px) {
+    html {
+      font-size: 16px;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    html {
+      font-size: 14px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    html {
+      font-size: 12px;
+    }
+  }
+
+  html,
+  body {
+    height: 100%;
+    @apply bg-background font-sans;
+  }
+
+  #root {
+    min-height: 100%;
+  }
+}

@@ -1,14 +1,18 @@
 export const SECTIONS = [
   {
-    title: 'Projetos',
+    titleKey: 'nav.projects' as const,
     targetSection: '#projects',
   },
   {
-    title: 'Experiência',
+    titleKey: 'nav.experience' as const,
+    targetSection: '#experience',
+  },
+  {
+    titleKey: 'nav.skills' as const,
     targetSection: '#skills',
   },
   {
-    title: 'Contato',
+    titleKey: 'nav.contact' as const,
     targetSection: '#contact',
   },
 ];

@@ -1,13 +1,10 @@
-import PPHoje from "../../assets/static/pphoje.png";
-import Adottami from "../../assets/static/adottami.png";
-import FindWeather from "../../assets/static/findweather.png";
-import MoveUp from "../../assets/static/moveup.png";
-
 import { IProject } from "../interfaces/common";
+
+const base = '/assets/png';
 
 export const PROJECTS: IProject[] = [
     {
-        src: PPHoje,
+        src: `${base}/pphoje.png`,
         uptitle: "Frontend & UI Designer",
         title: "PPHoje",
         description:
@@ -16,7 +13,7 @@ export const PROJECTS: IProject[] = [
         figmaURL: "https://www.figma.com/design/fGBFtpllTwSmvaUZSGZOXn/PPHoje?node-id=0-1&t=asEnjbT76B5Q12v3-1",
     },
     {
-        src: FindWeather,
+        src: `${base}/findweather.png`,
         uptitle: "Frontend",
         title: "FindWeather",
         description: "🌦️ O FindWeather e uma aplicação mobile onde você poderá buscar por uma cidade ou país para ver o clima em tempo real. Além disso, também é possível visualizar a temperatura para os próximos 5 dias.",
@@ -24,7 +21,7 @@ export const PROJECTS: IProject[] = [
         githubURL: "https://github.com/lucasl1m/findweather/tree/master",
     },
     {
-        src: Adottami,
+        src: `${base}/adottami.png`,
         uptitle: "Frontend & UI Designer",
         title: "Adottami",
         description:
@@ -36,7 +33,7 @@ export const PROJECTS: IProject[] = [
             "https://www.figma.com/design/jcO6yAgdwfG2RLVRoab3OV/%F0%9F%90%B6-Adottami?node-id=0-1&t=IZks7IL7tOlqnZdG-1",
     },
     {
-        src: MoveUp,
+        src: `${base}/moveup.png`,
         uptitle: "Frontend",
         title: "MoveUp",
         description:
