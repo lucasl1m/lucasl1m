@@ -4,8 +4,8 @@ import {
     Route,
 } from "react-router-dom";
 
-import { Home } from '../pages/home';
-import { NotFound } from '../pages/not-found';
+import { Home } from '@/pages/Home';
+import { NotFound } from '@/pages/not-found';
 
 export function Routes() {
     return (
