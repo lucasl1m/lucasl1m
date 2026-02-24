@@ -1,6 +1,7 @@
 import { FiExternalLink, FiFigma, FiGithub } from 'react-icons/fi';
 import { IconBox } from '../IconBox';
 import { IProject } from '@/types/interfaces/common';
+import { useThemeStore } from '@/stores/themeStore';
 
 interface Props {
   isReversed: boolean;
@@ -18,6 +19,8 @@ export function ProjectCard({ isReversed, project }: Props) {
     figmaURL,
     githubURL,
   } = project;
+
+  const { theme } = useThemeStore();
 
   const gridCols = isReversed ? 'grid-cols-[1fr_1.25fr]' : 'grid-cols-[1.25fr_1fr]';
   const imgCol = isReversed ? 'col-[2/3]' : 'col-[1/2]';
@@ -39,7 +42,9 @@ export function ProjectCard({ isReversed, project }: Props) {
           <img
             src={src}
             alt="project-preview"
-            className="w-full object-contain opacity-25 transition-opacity cursor-pointer hover:opacity-100"
+            className={`w-full object-contain transition-opacity cursor-pointer ${
+              theme === 'dark' ? 'opacity-25 hover:opacity-100' : 'opacity-100'
+            }`}
           />
         </a>
       </div>
