@@ -1,3 +1,5 @@
+import type { ComponentType } from 'react';
+
 export interface IProject {
     src: string;
     uptitle: string;
@@ -10,8 +12,9 @@ export interface IProject {
 }
 
 export interface ISkill {
-    src: string;
-    title: string;
-    description: string;
-    borderColor: string;
-  }
+  src?: string;
+  icon?: ComponentType<{ className?: string }>;
+  title: string;
+  description: string;
+  borderColor: string;
+}

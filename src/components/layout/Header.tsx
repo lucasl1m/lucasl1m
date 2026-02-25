@@ -8,7 +8,6 @@ import {
   SelectTrigger,
 } from '@/components/ui/select';
 import { useThemeStore } from '@/stores/themeStore';
-import { Logo } from '@/components/Logo';
 
 const LANGUAGES = [
   { code: 'pt-BR', flagCode: 'br', labelKey: 'language.pt' as const },
@@ -35,9 +34,8 @@ export function Header() {
 
   return (
     <header className="flex items-center justify-between w-full mt-7 px-16 z-[1] max-md:px-4">
-      <a href="/" className="flex items-center cursor-pointer" aria-label="Home">
-        <Logo className="h-8 w-auto text-whiteText" />
-      </a>
+      <img src="/assets/svg/avatar.svg" alt="Logo" className="h-12 w-12" />
+      
 
       <div className="flex items-center gap-6 max-md:gap-4">
         <div className="flex items-center gap-2">

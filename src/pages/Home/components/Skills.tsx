@@ -22,14 +22,9 @@ export function Skills() {
       />
 
       <div className="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-fr">
-        {SKILLS.map(({ src, title, description, borderColor }, i) => (
+        {SKILLS.map((skill, i) => (
           <motion.div key={i} variants={itemVariants} className="h-full">
-            <SkillCard
-              src={src}
-              title={title}
-              description={description}
-              borderColor={borderColor}
-            />
+            <SkillCard {...skill} />
           </motion.div>
         ))}
       </div>
