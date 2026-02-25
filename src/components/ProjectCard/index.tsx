@@ -42,9 +42,7 @@ export function ProjectCard({ isReversed, project }: Props) {
           <img
             src={src}
             alt="project-preview"
-            className={`w-full object-contain transition-opacity cursor-pointer ${
-              theme === 'dark' ? 'opacity-25 hover:opacity-100' : 'opacity-100'
-            }`}
+            className="w-full object-contain cursor-pointer"
           />
         </a>
       </div>

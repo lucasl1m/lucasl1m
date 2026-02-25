@@ -1,7 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { CircleFlag } from 'react-circle-flags';
 import { FiSun, FiMoon } from 'react-icons/fi';
-import { SECTIONS } from '@/types/constants/sections';
 import {
   Select,
   SelectContent,
@@ -40,21 +39,7 @@ export function Header() {
         <Logo className="h-8 w-auto text-whiteText" />
       </a>
 
-      <div className="flex items-center gap-14 max-md:gap-4">
-        <nav className="flex items-center max-md:hidden">
-          <div className="flex items-center gap-8">
-            {SECTIONS.map(({ titleKey, targetSection }) => (
-              <a
-                key={titleKey}
-                href={targetSection}
-                className="relative py-3 px-4 text-[0.8rem] font-bold no-underline cursor-pointer text-whiteText after:block after:absolute after:w-0 after:h-0.5 after:bg-gradient after:bottom-[-8px] after:left-0 after:content-[''] after:transition-[width] after:duration-300 hover:after:w-full focus:after:w-full"
-              >
-                {t(titleKey)}
-              </a>
-            ))}
-          </div>
-        </nav>
-
+      <div className="flex items-center gap-6 max-md:gap-4">
         <div className="flex items-center gap-2">
           <Select
             value={theme}

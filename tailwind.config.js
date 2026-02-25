@@ -23,7 +23,13 @@ export default {
         gradient: 'var(--gradient-underline)',
       },
       fontFamily: {
-        sans: ['Roboto', 'sans-serif'],
+        sans: [
+          '-apple-system',
+          'BlinkMacSystemFont',
+          '"Segoe UI"',
+          'system-ui',
+          'sans-serif',
+        ],
       },
     },
   },

@@ -7,11 +7,11 @@ type Props = {
 
 export function TitleSection({ image, icon, title, caption }: Props) {
   return (
-    <div className="flex flex-col items-center justify-center gap-4">
-      {icon ? icon : image ? <img src={image} alt="" className="max-h-12 w-auto object-contain" /> : null}
-      <h2 className="text-[2.5rem] text-whiteText">{title}</h2>
+    <div className="flex flex-col items-center justify-center gap-3">
+      {icon ? icon : image ? <img src={image} alt="" className="max-h-10 w-auto object-contain" /> : null}
+      <h2 className="text-[2rem] text-whiteText">{title}</h2>
       {caption && (
-        <p className="text-base text-caption text-center">{caption}</p>
+        <p className="text-sm text-caption text-center max-w-2xl">{caption}</p>
       )}
     </div>
   );
