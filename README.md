@@ -86,37 +86,36 @@ Atuo principalmente no setor financeiro, desde a estruturação de novos projeto
 
 ## Projetos em destaque
 
-### 🔥 [devroast](https://github.com/lucasl1m/devroast)
+**[Pago Parcelado](https://pagoparcelado.com.br/orgaos-disponiveis)** · Beeteller
 
-Mini SaaS que "rosteia" seu código sem dó, construído com React, Next.js, tRPC, Postgres e IA.
+Modernização de features financeiras em Angular, viabilizando o processamento de novos tipos de pagamentos governamentais (GRUs e guias judiciais) e integrando o protocolo de segurança 3DS no fluxo de checkout para reduzir fraude em transações de cartão.
 
-### 📅 [event-management](https://github.com/lucasl1m/event-management)
+<img src="https://img.shields.io/badge/Angular-343a40?style=flat-square" height="24" alt="Angular" />
+<img src="https://img.shields.io/badge/RxJS-343a40?style=flat-square" height="24" alt="RxJS" />
+<img src="https://img.shields.io/badge/i18n-343a40?style=flat-square" height="24" alt="i18n" />
+<img src="https://img.shields.io/badge/Yup-343a40?style=flat-square" height="24" alt="Yup" />
+<img src="https://img.shields.io/badge/Angular_Material-343a40?style=flat-square" height="24" alt="Angular Material" />
 
-Aplicação web para acompanhar eventos, controlar acesso de participantes e visualizar métricas.
+**[Harpia AI](https://harpia.ia.br/)**
 
-[![Ver repositórios](https://img.shields.io/badge/Ver_todos_os_repositórios-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasl1m?tab=repositories)
+Estruturação da arquitetura de frontend do zero, com padrões de qualidade via Husky, ESLint e Conventional Commits, além de infraestrutura de testes com Cypress e pipeline de CI/CD para garantir alta manutenibilidade.
 
-## Contribuições
+<img src="https://img.shields.io/badge/React-343a40?style=flat-square" height="24" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-343a40?style=flat-square" height="24" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-343a40?style=flat-square" height="24" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Context_API-343a40?style=flat-square" height="24" alt="Context API" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-343a40?style=flat-square" height="24" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Cypress-343a40?style=flat-square" height="24" alt="Cypress" />
+<img src="https://img.shields.io/badge/CI%2FCD-343a40?style=flat-square" height="24" alt="CI/CD" />
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      width="100%"
-      alt="Animação do gráfico de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/lucasl1m/lucasl1m/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=lucasl1m&theme=github-dark-blue&hide_border=true" alt="Streak de contribuições" height="165" />
-</div>
+**[Beeteller Internacional](https://beeteller.com/)**
+
+Evolução do ecossistema de frontend com Angular e RxJS para o gerenciamento de fluxos reativos complexos, sustentando uma operação cross-border escalável que atende a mais de 40.000 pontos de venda globais.
+
+<img src="https://img.shields.io/badge/Angular-343a40?style=flat-square" height="24" alt="Angular" />
+<img src="https://img.shields.io/badge/RxJS-343a40?style=flat-square" height="24" alt="RxJS" />
+<img src="https://img.shields.io/badge/i18n-343a40?style=flat-square" height="24" alt="i18n" />
+<img src="https://img.shields.io/badge/Yup-343a40?style=flat-square" height="24" alt="Yup" />
 
 ---
 
