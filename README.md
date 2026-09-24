@@ -1,6 +1,13 @@
-# Lucas Araújo de Lima
+<h1 align="center">Lucas Araújo de Lima</h1>
 
-[lucasarlim@gmail.com](mailto:lucasarlim@gmail.com) | [linkedin.com/in/lucasl1m](https://www.linkedin.com/in/lucasl1m/) | [github.com/lucasl1m](https://github.com/lucasl1m) | [lucasl1m.vercel.app](https://lucasl1m.vercel.app/) | Campina Grande, Paraíba, Brasil
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasl1m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasl1m/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-lucasl1m.vercel.app-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasl1m.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-lucasl1m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasl1m)
+[![E-mail](https://img.shields.io/badge/E--mail-contato-8250DF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasarlim@gmail.com)
+
+</div>
 
 ## Sobre mim
 
