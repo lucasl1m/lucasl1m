@@ -76,14 +76,10 @@ Atuo principalmente no setor financeiro, desde a estruturação de novos projeto
 
 ### Ferramentas & infra
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-<img width="10" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" alt="Git" title="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" title="GitHub" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28" alt="GitHub Actions" title="GitHub Actions" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28" alt="Figma" title="Figma" />
 <img src="https://img.shields.io/badge/CI%2FCD-Git_Flow-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28" alt="CI/CD" title="CI/CD" />
 
 </div>
