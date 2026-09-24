@@ -1,15 +1,6 @@
-<h1 align="left">Hello 👋</h1>
+# Lucas Araújo de Lima
 
-<p align="left">Lucas Araújo de Lima — Desenvolvedor Frontend/Mobile · Ciência da Computação (UFCG)</p>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasl1m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasl1m/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-lucasl1m.vercel.app-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasl1m.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-lucasl1m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasl1m)
-[![E-mail](https://img.shields.io/badge/E--mail-contato-8250DF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasarlim@gmail.com)
-
-</div>
+[lucasarlim@gmail.com](mailto:lucasarlim@gmail.com) | [linkedin.com/in/lucasl1m](https://www.linkedin.com/in/lucasl1m/) | [github.com/lucasl1m](https://github.com/lucasl1m) | [lucasl1m.vercel.app](https://lucasl1m.vercel.app/) | Campina Grande, Paraíba, Brasil
 
 ## Sobre mim
 
@@ -90,15 +81,21 @@ Atuo principalmente no setor financeiro, desde a estruturação de novos projeto
 
 Modernização de features financeiras em Angular, viabilizando o processamento de novos tipos de pagamentos governamentais (GRUs e guias judiciais) e integrando o protocolo de segurança 3DS no fluxo de checkout para reduzir fraude em transações de cartão.
 
+<div>
+
 <img src="https://img.shields.io/badge/Angular-343a40?style=flat-square" height="24" alt="Angular" />
 <img src="https://img.shields.io/badge/RxJS-343a40?style=flat-square" height="24" alt="RxJS" />
 <img src="https://img.shields.io/badge/i18n-343a40?style=flat-square" height="24" alt="i18n" />
 <img src="https://img.shields.io/badge/Yup-343a40?style=flat-square" height="24" alt="Yup" />
 <img src="https://img.shields.io/badge/Angular_Material-343a40?style=flat-square" height="24" alt="Angular Material" />
 
+</div>
+
 **[Harpia AI](https://harpia.ia.br/)**
 
 Estruturação da arquitetura de frontend do zero, com padrões de qualidade via Husky, ESLint e Conventional Commits, além de infraestrutura de testes com Cypress e pipeline de CI/CD para garantir alta manutenibilidade.
+
+<div>
 
 <img src="https://img.shields.io/badge/React-343a40?style=flat-square" height="24" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-343a40?style=flat-square" height="24" alt="Next.js" />
@@ -108,14 +105,20 @@ Estruturação da arquitetura de frontend do zero, com padrões de qualidade via
 <img src="https://img.shields.io/badge/Cypress-343a40?style=flat-square" height="24" alt="Cypress" />
 <img src="https://img.shields.io/badge/CI%2FCD-343a40?style=flat-square" height="24" alt="CI/CD" />
 
+</div>
+
 **[Beeteller Internacional](https://beeteller.com/)**
 
 Evolução do ecossistema de frontend com Angular e RxJS para o gerenciamento de fluxos reativos complexos, sustentando uma operação cross-border escalável que atende a mais de 40.000 pontos de venda globais.
+
+<div>
 
 <img src="https://img.shields.io/badge/Angular-343a40?style=flat-square" height="24" alt="Angular" />
 <img src="https://img.shields.io/badge/RxJS-343a40?style=flat-square" height="24" alt="RxJS" />
 <img src="https://img.shields.io/badge/i18n-343a40?style=flat-square" height="24" alt="i18n" />
 <img src="https://img.shields.io/badge/Yup-343a40?style=flat-square" height="24" alt="Yup" />
+
+</div>
 
 ---
 
