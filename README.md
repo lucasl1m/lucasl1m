@@ -51,34 +51,34 @@ Atuo principalmente no setor financeiro, desde a estruturação de novos projeto
 
 ### Qualidade & testes
 
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="28" alt="Jest" title="Jest" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="28" alt="Cypress" title="Cypress" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" height="28" alt="ESLint" title="ESLint" />
-<img src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=git&logoColor=white" height="28" alt="Husky" title="Husky" />
-<img src="https://img.shields.io/badge/Testing_Library-e33332?style=flat-square&logo=testinglibrary&logoColor=white" height="28" alt="Testing Library" title="Testing Library" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" title="Cypress" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" title="ESLint" />
+<img src="https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white" alt="Husky" title="Husky" />
+<img src="https://img.shields.io/badge/Testing_Library-e33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library" title="Testing Library" />
 
 <br/><br/>
 
 ### Estado, dados & integrações
 
-<img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=111827" height="28" alt="Context API" title="Context API" />
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="28" alt="React Query" title="React Query" />
-<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" height="28" alt="RxJS" title="RxJS" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" height="28" alt="Zod" title="Zod" />
-<img src="https://img.shields.io/badge/Yup-000000?style=flat-square" height="28" alt="Yup" title="Yup" />
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" height="28" alt="React Hook Form" title="React Hook Form" />
-<img src="https://img.shields.io/badge/i18n-Internacionalização-161B22?style=flat-square" height="28" alt="i18n" title="i18n" />
-<img src="https://img.shields.io/badge/APIs_REST-Integrações-161B22?style=flat-square&logo=openapiinitiative&logoColor=white" height="28" alt="APIs REST" title="APIs REST" />
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="Context API" title="Context API" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" title="React Query" />
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" title="RxJS" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" title="Zod" />
+<img src="https://img.shields.io/badge/Yup-000000?style=for-the-badge" alt="Yup" title="Yup" />
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" title="React Hook Form" />
+<img src="https://img.shields.io/badge/i18n-Internacionalização-161B22?style=for-the-badge" alt="i18n" title="i18n" />
+<img src="https://img.shields.io/badge/APIs_REST-Integrações-161B22?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="APIs REST" title="APIs REST" />
 
 <br/><br/>
 
 ### Ferramentas & infra
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" alt="Git" title="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" title="GitHub" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28" alt="GitHub Actions" title="GitHub Actions" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28" alt="Figma" title="Figma" />
-<img src="https://img.shields.io/badge/CI%2FCD-Git_Flow-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28" alt="CI/CD" title="CI/CD" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" title="GitHub Actions" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" />
+<img src="https://img.shields.io/badge/CI%2FCD-Git_Flow-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" title="CI/CD" />
 
 </div>
 
@@ -90,11 +90,11 @@ Modernização de features financeiras em Angular, viabilizando o processamento 
 
 <div>
 
-<img src="https://img.shields.io/badge/Angular-343a40?style=flat-square" height="24" alt="Angular" />
-<img src="https://img.shields.io/badge/RxJS-343a40?style=flat-square" height="24" alt="RxJS" />
-<img src="https://img.shields.io/badge/i18n-343a40?style=flat-square" height="24" alt="i18n" />
-<img src="https://img.shields.io/badge/Yup-343a40?style=flat-square" height="24" alt="Yup" />
-<img src="https://img.shields.io/badge/Angular_Material-343a40?style=flat-square" height="24" alt="Angular Material" />
+<img src="https://img.shields.io/badge/Angular-343a40?style=for-the-badge" alt="Angular" />
+<img src="https://img.shields.io/badge/RxJS-343a40?style=for-the-badge" alt="RxJS" />
+<img src="https://img.shields.io/badge/i18n-343a40?style=for-the-badge" alt="i18n" />
+<img src="https://img.shields.io/badge/Yup-343a40?style=for-the-badge" alt="Yup" />
+<img src="https://img.shields.io/badge/Angular_Material-343a40?style=for-the-badge" alt="Angular Material" />
 
 </div>
 
@@ -104,13 +104,13 @@ Estruturação da arquitetura de frontend do zero, com padrões de qualidade via
 
 <div>
 
-<img src="https://img.shields.io/badge/React-343a40?style=flat-square" height="24" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-343a40?style=flat-square" height="24" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-343a40?style=flat-square" height="24" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Context_API-343a40?style=flat-square" height="24" alt="Context API" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-343a40?style=flat-square" height="24" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Cypress-343a40?style=flat-square" height="24" alt="Cypress" />
-<img src="https://img.shields.io/badge/CI%2FCD-343a40?style=flat-square" height="24" alt="CI/CD" />
+<img src="https://img.shields.io/badge/React-343a40?style=for-the-badge" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-343a40?style=for-the-badge" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-343a40?style=for-the-badge" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Context_API-343a40?style=for-the-badge" alt="Context API" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-343a40?style=for-the-badge" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Cypress-343a40?style=for-the-badge" alt="Cypress" />
+<img src="https://img.shields.io/badge/CI%2FCD-343a40?style=for-the-badge" alt="CI/CD" />
 
 </div>
 
@@ -120,10 +120,10 @@ Evolução do ecossistema de frontend com Angular e RxJS para o gerenciamento de
 
 <div>
 
-<img src="https://img.shields.io/badge/Angular-343a40?style=flat-square" height="24" alt="Angular" />
-<img src="https://img.shields.io/badge/RxJS-343a40?style=flat-square" height="24" alt="RxJS" />
-<img src="https://img.shields.io/badge/i18n-343a40?style=flat-square" height="24" alt="i18n" />
-<img src="https://img.shields.io/badge/Yup-343a40?style=flat-square" height="24" alt="Yup" />
+<img src="https://img.shields.io/badge/Angular-343a40?style=for-the-badge" alt="Angular" />
+<img src="https://img.shields.io/badge/RxJS-343a40?style=for-the-badge" alt="RxJS" />
+<img src="https://img.shields.io/badge/i18n-343a40?style=for-the-badge" alt="i18n" />
+<img src="https://img.shields.io/badge/Yup-343a40?style=for-the-badge" alt="Yup" />
 
 </div>
 
