@@ -1,8 +1,20 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/master/assets/profile-banner-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/master/assets/profile-banner-light.svg"
+  />
+  <img
+    width="100%"
+    alt="Lucas Araújo de Lima — Desenvolvedor Frontend/Mobile"
+    src="https://raw.githubusercontent.com/lucasl1m/lucasl1m/master/assets/profile-banner-light.svg"
+  />
+</picture>
+
 <div align="center">
-
-# Lucas Araújo de Lima
-
-Desenvolvedor Frontend/Mobile · Ciência da Computação (UFCG)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasl1m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasl1m/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-lucasl1m.vercel.app-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasl1m.vercel.app/)
@@ -59,22 +71,22 @@ Atuo principalmente no setor financeiro, desde a estruturação de novos projeto
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint" title="ESLint" />
 <img width="10" />
-![Husky](https://img.shields.io/badge/Husky-Git_hooks-000000?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Husky-Git_hooks-000000?style=flat-square&logo=git&logoColor=white" height="28" alt="Husky" title="Husky" />
 <img width="10" />
-![Testing Library](https://img.shields.io/badge/Testing_Library-e33332?style=flat-square&logo=testinglibrary&logoColor=white)
+<img src="https://img.shields.io/badge/Testing_Library-e33332?style=flat-square&logo=testinglibrary&logoColor=white" height="28" alt="Testing Library" title="Testing Library" />
 
 <br/><br/>
 
 ### Estado, dados & integrações
 
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Yup](https://img.shields.io/badge/Yup-000000?style=flat-square)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-Internacionalização-161B22?style=flat-square)
-![APIs REST](https://img.shields.io/badge/APIs_REST-Integrações-161B22?style=flat-square&logo=openapiinitiative&logoColor=white)
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=111827" height="28" alt="Context API" title="Context API" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" height="28" alt="React Query" title="React Query" />
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" height="28" alt="RxJS" title="RxJS" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" height="28" alt="Zod" title="Zod" />
+<img src="https://img.shields.io/badge/Yup-000000?style=flat-square" height="28" alt="Yup" title="Yup" />
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" height="28" alt="React Hook Form" title="React Hook Form" />
+<img src="https://img.shields.io/badge/i18n-Internacionalização-161B22?style=flat-square" height="28" alt="i18n" title="i18n" />
+<img src="https://img.shields.io/badge/APIs_REST-Integrações-161B22?style=flat-square&logo=openapiinitiative&logoColor=white" height="28" alt="APIs REST" title="APIs REST" />
 
 <br/><br/>
 
@@ -88,7 +100,7 @@ Atuo principalmente no setor financeiro, desde a estruturação de novos projeto
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 <img width="10" />
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Git_Flow-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/CI%2FCD-Git_Flow-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28" alt="CI/CD" title="CI/CD" />
 
 </div>
 
@@ -107,7 +119,22 @@ Aplicação web para acompanhar eventos, controlar acesso de participantes e vis
 ## Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasl1m&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      alt="Animação do gráfico de contribuições do GitHub"
+      src="https://raw.githubusercontent.com/lucasl1m/lucasl1m/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=lucasl1m&theme=github-dark-blue&hide_border=true" alt="Streak de contribuições" height="165" />
 </div>
 
