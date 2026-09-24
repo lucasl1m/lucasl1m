@@ -1,18 +1,6 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/master/assets/profile-banner-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/lucasl1m/lucasl1m/master/assets/profile-banner-light.svg"
-  />
-  <img
-    width="100%"
-    alt="Lucas Araújo de Lima — Desenvolvedor Frontend/Mobile"
-    src="https://raw.githubusercontent.com/lucasl1m/lucasl1m/master/assets/profile-banner-light.svg"
-  />
-</picture>
+<h1 align="left">Hello 👋</h1>
+
+<p align="left">Lucas Araújo de Lima — Desenvolvedor Frontend/Mobile · Ciência da Computação (UFCG)</p>
 
 <div align="center">
 
@@ -65,14 +53,10 @@ Atuo principalmente no setor financeiro, desde a estruturação de novos projeto
 
 ### Qualidade & testes
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress" title="Cypress" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint" title="ESLint" />
-<img width="10" />
-<img src="https://img.shields.io/badge/Husky-Git_hooks-000000?style=flat-square&logo=git&logoColor=white" height="28" alt="Husky" title="Husky" />
-<img width="10" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="28" alt="Jest" title="Jest" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="28" alt="Cypress" title="Cypress" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" height="28" alt="ESLint" title="ESLint" />
+<img src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=git&logoColor=white" height="28" alt="Husky" title="Husky" />
 <img src="https://img.shields.io/badge/Testing_Library-e33332?style=flat-square&logo=testinglibrary&logoColor=white" height="28" alt="Testing Library" title="Testing Library" />
 
 <br/><br/>
