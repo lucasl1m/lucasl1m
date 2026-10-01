@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasl1m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasl1m/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-lucasl1m.vercel.app-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasl1m.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-lucasl1m.github.io-161B22?style=for-the-badge&logo=github&logoColor=white)](https://lucasl1m.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-lucasl1m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasl1m)
 [![E-mail](https://img.shields.io/badge/E--mail-contato-8250DF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasarlim@gmail.com)
 
